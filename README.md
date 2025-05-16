@@ -1,6 +1,6 @@
 # Diabetes Prediction 🩺📊
 
-Predict diabetes using machine learning on the Pima Indians Diabetes Dataset.
+Predict diabetes using machine learning.
 ---
 ## 📋 Dataset Features
 
